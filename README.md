@@ -1,3 +1,5 @@
+# Calculator🧮
+
 Hello!
 This is my first project in Java—a simple calculator that runs on Windows. 
 It utilizes various libraries, including JFrame for the window frame, JLabel for display, and JButton for the keys. 
