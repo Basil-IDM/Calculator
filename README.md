@@ -1,5 +1,8 @@
 # Calculator🧮
 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+
+
 Hello!
 This is my first project in Java—a simple calculator that runs on Windows. 
 It utilizes various libraries, including JFrame for the window frame, JLabel for display, and JButton for the keys. 
