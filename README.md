@@ -15,6 +15,5 @@ With This program you can understand how opps work and the implementation of con
 
 ### 🚀 Setup
 
-Just copy the calculator.exe file and paste it on the the desktop folder 😁
 
 ## -------------------Finished----------------------
